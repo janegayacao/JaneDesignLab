@@ -1,5 +1,5 @@
 {
-  "name": "jane-design-lab",
+  "name": "janedesignlab",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:jane-design-lab": "node dist/jane-design-lab/server/server.mjs"
+    "serve:ssr:JaneDesignLab": "node dist/JaneDesignLab/server/server.mjs"
   },
   "prettier": {
     "printWidth": 100,
